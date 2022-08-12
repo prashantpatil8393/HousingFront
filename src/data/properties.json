@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "Type": "Apartment",
+    "Price": 300000,
+    "Name": "Rama Group"
+  },
+  {
+    "Id": 2,
+    "Type": "Residential",
+    "Price": 340000,
+    "Name": "ABC House"
+  },
+  {
+    "Id": 3,
+    "Type": "Commercial",
+    "Price": 660000,
+    "Name": "Ware House"
+  },
+  {
+    "Id": 4,
+    "Type": "Stand Alone",
+    "Price": 500000,
+    "Name": "BCD"
+  },
+  {
+    "Id": 5,
+    "Type": "Mobile",
+    "Price": 4999,
+    "Name": "ARI"
+  },
+  {
+    "Id": 6,
+    "Type": "Apartment",
+    "Price": 700000,
+    "Name": "Krishana House"
+  },
+  {
+    "Id": 7,
+    "Type": "Banglow",
+    "Price": 800000,
+    "Name": "Riya villa"
+  },
+  {
+    "Id": 8,
+    "Type": "Duplex",
+    "Price": 600000,
+    "Name": "Jay viru House"
+  },
+  {
+    "Id": 9,
+    "Type": "Apartment",
+    "Price": 500000,
+    "Name": "President"
+  }
+]
